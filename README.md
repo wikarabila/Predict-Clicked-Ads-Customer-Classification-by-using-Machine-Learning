@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c47fb2aa-801a-4fcd-a038-38575d03da55)# Predict Clicked Ads Customer Classification Using Machine Learning
+# Predict Clicked Ads Customer Classification Using Machine Learning
 
 Mini Project by Rakamin Academy
 
